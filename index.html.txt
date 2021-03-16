@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<lang= "ru">
+<meta charset="utf-8" />
+<link rel="stylesheet" type"text/css" href="style.css.txt">
+<title>мой сайт</title>
+   <head>
+    <title>Моё резюме</title>
+  </head>
+<header>
+    <img src="/logo.png" alt="Логотип"> <!-- Логотип сайта -->
+    <nav id="menu"> <!-- Меню -->
+        <ul>
+            <li><a href="/">Переход на главную страницу</a></li>
+            <li><a href="/about">Про меня</a></li>
+            <li><a href="/contacts">Социальные сети сети/a></li>
+        </ul>
+    </nav>
+</header>
+
+<aside>
+    <div>
+        <a href="#">Инстаграмм</a>
+        <a href="#">Вконтакте</a>
+        <a href="#">Телеграмм канал</a>
+    </div>
+</aside>
+
+<main>
+    <h1>Меня зовут Пшеничный Вячеслав Сергеевич</h1>
+
+    <p>Я пришел на хекслет что бы изучить новую профессию.</p>
+
+    <section>
+        <h2>Почему именно хекслет?</h2>
+
+        <ul>
+            <li>Много теории</li>
+            <li>Много практики</li>
+            <li>Много менторов</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Новости</h2>
+
+        <article>
+            <h3>Новость 1</h3>
+            <p>Текст новости 1</p>
+            <a href="#">Подробнее</a>
+        </article>
+
+        <article>
+            <h3>Новость 2</h3>
+            <p>Текст новости 2</p>
+            <a href="#">Подробнее</a>
+        </article>
+
+        <article>
+            <h3>Новость 3</h3>
+            <p>Текст новости 3</p>
+            <a href="#">Подробнее</a>
+        </article>
+    </section>
+</main>
+</html>
